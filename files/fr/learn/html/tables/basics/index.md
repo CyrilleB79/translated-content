@@ -97,7 +97,7 @@ L'avantage du tableau tient dans sa rigueur. L'information est facilement interp
       <td>La plus proche du Soleil</td>
     </tr>
     <tr>
-      <th scope="row">Venus</th>
+      <th scope="row">Vénus</th>
       <td>4.87</td>
       <td>12,104</td>
       <td>5243</td>
